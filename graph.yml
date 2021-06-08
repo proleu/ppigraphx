@@ -1,6 +1,5 @@
 name: graph
 channels:
-  - https://conda.graylab.jhu.edu
   - anaconda
   - https://pose:foldtree@conda.graylab.jhu.edu
   - conda-forge
